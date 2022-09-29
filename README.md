@@ -9,3 +9,5 @@
 - 💬 Ask me about anything, I'm here to help!
 - 📫 How to reach me: www.linkedin.com/in/laura-keating-software
 - 😄 Pronouns: She/her
+
+Ps. 🟩 I'm trying to keep my contribution graph green
