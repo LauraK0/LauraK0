@@ -2,6 +2,8 @@
 
 ###  I am a Software Developer with a background in architecture and the built environment.
 
+
+
 - 🔭 I’m currently working on the Pre-Apprenticeship course with Founders and Coders
 - 🌱 I’m currently learning all things web development
 - 👯 I’m looking to collaborate on code review!
@@ -11,3 +13,6 @@
 - 😄 Pronouns: She/her
 
 Ps. 🟩 I'm trying to keep my contribution graph green
+
+
+[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraK0)](https://github.com/LauraK0/github-readme-stats)
