@@ -1,6 +1,6 @@
 ### Hi there, I'm Laura 👋
 
-###  I am a Software Developer with a background in architecture and the built environment.
+###  I am a Software Developer with a passion in architecture and design
 
 
 
