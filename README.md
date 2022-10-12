@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on the Pre-Apprenticeship course with Founders and Coders
+- 🔭 I’m currently working on the Pre-Apprenticeship course with [Founders and Coders](https://www.foundersandcoders.com/skills-bootcamp/)
 - 🌱 I’m currently learning all things web development
 - 👯 I’m looking to collaborate on code review!
 - 🤔 I’m looking for help with developing my knowledge of javascript
