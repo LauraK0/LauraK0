@@ -1,6 +1,11 @@
 ### Hi there, I'm Laura 👋
 
+---
+
+
 ###  I am a Software Developer with a passion in architecture and design
+
+---
 
 
 
@@ -11,6 +16,8 @@
 - 💬 Ask me about anything, I'm here to help!
 - 📫 How to reach me: www.linkedin.com/in/laura-keating
 - 😄 Pronouns: She/her
+
+---
 
 Ps. 🟩 I'm trying to keep my contribution graph green
 
