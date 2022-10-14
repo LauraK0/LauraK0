@@ -1,9 +1,7 @@
 ### About Me
 
 ---
-I'm Laura 👋
-<br>
-<br>
+
 I am a Software Developer with a background in architecture and design
 <br>
 <br>
@@ -19,9 +17,6 @@ Since then, I have found that using logic and code to solve challenges deeply re
 
 I am also interested in art and design and keen to get out to exhibitions/ visit different parts of London in my spare time. 
 <br>
-<br>
-Pronouns: She/her
-
 
 ### What I've been up to
 ---
