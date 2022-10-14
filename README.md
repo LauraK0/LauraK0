@@ -14,7 +14,6 @@ I developed a keen interest in coding through creating scripts using a visual pr
 Since then, I have found that using logic and code to solve challenges deeply rewarding. 
 <br>
 <br>
-
 I am also interested in art and design and keen to get out to exhibitions/ visit different parts of London in my spare time. 
 <br>
 
