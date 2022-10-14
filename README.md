@@ -3,7 +3,11 @@
 ---
 I'm Laura 👋
 <br>
-I am a Software Developer with a passion in architecture and design
+I am a Software Developer with a passion for architecture and design
+<br>
+I studied at the Glasgow School of Art and developed a keen interest in contextural and sustainable architecture. I am also interested in art and design and keen to get out to exhibitions/ visit different parts of London in my spare time. 
+<br>
+In the past few years I have developed a keen interest in coding through creating scripts using a visual programming language to automate the production of construction information.
 <br>
 Pronouns: She/her
 
@@ -26,10 +30,3 @@ Pronouns: She/her
 
 - 💬 Ask me about anything, I'm here to help!
 - 📫 How to reach me: www.linkedin.com/in/laura-keating
-
-
-### 📊 Some Stats:
----
-![](https://github-readme-stats.vercel.app/api?username=LauraK0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LauraK0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraK0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
