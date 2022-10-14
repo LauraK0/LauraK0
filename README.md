@@ -11,14 +11,14 @@ Pronouns: She/her
 ### What I've been up to
 ---
 
-🔭 Working on the Pre-Apprenticeship course with [Founders and Coders](https://www.foundersandcoders.com/skills-bootcamp/)
+🔭 Working on the Pre-Apprenticeship course with [Founders and Coders](https://www.foundersandcoders.com/skills-bootcamp/) wherein, I have been:
 
 - Learning all things web development 
 - Developing my knowledge of javascript through Execute Programme
-- Looking to collaborate on code review!
-- playing with codewars too [my profile](https://www.codewars.com/users/LauraK0)
+- Collaborating on code review
+- trying to keep my contribution graph green 🟩 
 
-...And I'm trying to keep my contribution graph green 🟩 
+...And I've also been playing with codewars too [my profile](https://www.codewars.com/users/LauraK0
 
 
 ### Get in touch
