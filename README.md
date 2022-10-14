@@ -2,7 +2,9 @@
 
 ---
 I'm Laura 👋
+<br>
 I am a Software Developer with a passion in architecture and design
+<br>
 Pronouns: She/her
 
 
