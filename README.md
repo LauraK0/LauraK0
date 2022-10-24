@@ -24,5 +24,5 @@
 ### Get in touch
 ---
 
-- 💬 Ask me about anything, I'm here to help!
+- 💬 Ask me about anything, I'm keen to learn!
 - 📫 How to reach me: www.linkedin.com/in/laura-keating
