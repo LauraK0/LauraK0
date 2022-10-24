@@ -2,20 +2,11 @@
 
 ---
 
-Software Developer with a background in architecture and design
-<br>
-<br>
-I studied at the Glasgow School of Art where I focused on contextural and sustainable architecture. 
-<br>
-<br>
-After graduating, I developed a keen interest in coding through creating scripts using a visual programming language to automate the production of construction information.
-<br>
-<br>
-Since then, I have found that using logic and code to solve challenges deeply rewarding. 
-<br>
-<br>
-I am also interested in art and design and keen to get out to exhibitions/ visit different parts of London in my spare time. 
-<br>
+- Software Developer with a background in architecture and design
+- I studied at the Glasgow School of Art where I focused on contextural and sustainable architecture. 
+- After graduating, I developed a keen interest in coding through creating scripts using a visual programming language to automate the production of construction information.
+- Since then, I have found that using logic and code to solve challenges deeply rewarding. 
+- I am also interested in art and design and keen to get out to exhibitions/ visit different parts of London in my spare time. 
 
 ### What I've been up to
 ---
