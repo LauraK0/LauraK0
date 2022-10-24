@@ -17,6 +17,7 @@
 - Developing my knowledge of javascript through Execute Programme
 - Collaborating on code review
 - Attempting to keep my contribution graph green 🟩 
+- Discovering Prompt Engineering
 
 ...And I've also been playing with codewars too, check out [my profile](https://www.codewars.com/users/LauraK0)
 
