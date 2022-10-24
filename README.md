@@ -11,7 +11,7 @@
 ### What I've been up to
 ---
 
-🔭 Working on the Pre-Apprenticeship course with [Founders and Coders](https://www.foundersandcoders.com/skills-bootcamp/) where, I have been:
+🔭 Working on the Pre-Apprenticeship course with [Founders and Coders](https://www.foundersandcoders.com/skills-bootcamp/). Here, I am:
 
 - Learning all things web development 
 - Developing my knowledge of javascript through Execute Programme
