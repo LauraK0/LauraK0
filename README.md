@@ -20,14 +20,14 @@ I am also interested in art and design and keen to get out to exhibitions/ visit
 ### What I've been up to
 ---
 
-🔭 Working on the Pre-Apprenticeship course with [Founders and Coders](https://www.foundersandcoders.com/skills-bootcamp/) wherein, I have been:
+🔭 Working on the Pre-Apprenticeship course with [Founders and Coders](https://www.foundersandcoders.com/skills-bootcamp/) where, I have been:
 
 - Learning all things web development 
 - Developing my knowledge of javascript through Execute Programme
 - Collaborating on code review
 - Attempting to keep my contribution graph green 🟩 
 
-...And I've also been playing with codewars too [my profile](https://www.codewars.com/users/LauraK0)
+...And I've also been playing with codewars too, check out [my profile](https://www.codewars.com/users/LauraK0)
 
 
 ### Get in touch
