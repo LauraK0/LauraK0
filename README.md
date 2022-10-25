@@ -7,7 +7,7 @@
 - Early on in my career I discovered coding through using a visual programming language to automate the production of construction information.
 - From then on, the more I've learned about programming, the more I enjoyed it.
 - I am also interested in art and design and enjoy visiting exhibitions and exploring different parts of London in my spare time.
-- I have a particular interest in the intersection of coding with design, and have been discovering more about UX/UI design in my spare time.  
+- I have a particular interest in the intersection of coding with design, and have been discovering more about UX/UI design too.  
 
 ### What I've been up to
 ---
