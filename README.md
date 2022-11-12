@@ -3,7 +3,6 @@
 ---
 
 - Software Developer with a background in architecture and design
-- I studied at the Glasgow School of Art where I focused on contextual and sustainable architecture. 
 - Early on in my career I discovered coding through using a visual programming language to automate the production of construction information.
 - From then on, the more I've learned about programming, the more I enjoyed it.
 - I am also interested in art and design and enjoy visiting exhibitions and exploring different parts of London.
