@@ -1,29 +1,16 @@
 ### About Me
 
----
+Software Developer at [limio](https://www.limio.com/)
 
-- Software Developer with a background in architecture and design
-- Early on in my career I discovered coding through using a visual programming language to automate the production of construction information.
-- From then on, the more I've learned about programming, the more I enjoyed it.
-- I am also interested in art and design and enjoy visiting exhibitions and exploring different parts of London.
-- I have a particular interest in the intersection of coding with design, and have been discovering more about UX/UI design in my spare time.  
+### Languages
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+	<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
 
-### What I've been up to
----
-
-🔭 Working on the Pre-Apprenticeship course with [Founders and Coders](https://www.foundersandcoders.com/skills-bootcamp/). Here, I am:
-
-- Learning all things web development 
-- Developing my knowledge of javascript through Execute Programme
-- Collaborating on code review
-- Attempting to keep my contribution graph green 🟩 
-- Discovering Prompt Engineering
-
-...And I've also been playing with codewars too, check out [my profile](https://www.codewars.com/users/LauraK0)
 
 
 ### Get in touch
----
 
-- 💬 Ask me about anything, I'm keen to learn!
-- 📫 How to reach me: www.linkedin.com/in/laura-keating
+![https://www.linkedin.com/in/laura-full-stack-developer/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+
